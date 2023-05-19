@@ -1,0 +1,41 @@
+.body{
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container{
+    width: 1000px;
+    margin: auto;
+
+}
+.logo{
+    width: 700px;
+    text-align: center;
+}
+
+h1{
+    background-color: transparent;
+    color: lawngreen;
+    text-align: center;
+    width: auto;
+}
+
+.button{
+    margin: auto;
+    text-align: center;
+}
+
+#p4a {
+    background-color:#ffff0080;
+    width: 35%;
+}
+#p2 {
+    background-color:#00ff00;
+    width: 70%;
+}
+
+#p1 {
+    background-color:#ff0000;
+    width: 15%;
+}
